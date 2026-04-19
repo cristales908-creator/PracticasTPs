@@ -7,7 +7,7 @@
 	* Variables
 	* Strings
 	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
+	* Declaraciones `if`  
 	* Valores booleanos (`true`, `false`)
 
 
