@@ -1,4 +1,4 @@
-1)
+ 1)
 
 **** For.
 Es una estructura de programación que permite reproducir en pocas líneas una iteración consecutiva de una deteminada lógica.
